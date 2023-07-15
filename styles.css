@@ -82,3 +82,14 @@ a {
 .submit-button:hover {
     background-color: #0056b3;
 }
+
+/* logo styles */
+.logo-container {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.logo {
+    max-width: 200px;
+    height: auto;
+}
